@@ -1,0 +1,10 @@
+{
+  "Name": "ES Nicknames",
+  "Author": "Joselyn O'Connor",
+  "Version": "0.1.0",
+  "Description": "This mod allows you to set nicknames for yourself based on NPC relationship status",
+  "UniqueID": "elegantsyntax.es_nicknames",
+  "EntryDll": "es-nicknames.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}

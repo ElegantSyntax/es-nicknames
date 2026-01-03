@@ -1,0 +1,5 @@
+
+*.DS_Store
+
+es-nicknames/bin/
+es-nicknames/obj/
